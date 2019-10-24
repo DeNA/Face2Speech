@@ -13,7 +13,7 @@ print("")
 print("* We can't provide face images on this page because of copyrights.")
 print("* However, the face images were provided to subjects in evaluation.")
 print("")
-print("| Id in VoxCeleb2 | Speaker name | Gender  |  SYNTH-FACE | SYNTHE-SPEECH  |")
+print("| Id in VGGFace2 | Speaker name | Gender  |  SYNTH-FACE | SYNTHE-SPEECH  |")
 print("|---|---|---|---|---|")
 for fname in fnames_list:
     voxcelebid, vggid, spkname, gender = fname.rstrip().split()
