@@ -1,0 +1,285 @@
+# Audio samples
+
+| id in VGGFace2 | speaker name | gender  |  SYNTH-FACE | SYNTHE-SPEECH  |
+|---|---|---|---|---|
+| 
+ id00017 |
+  Aaron Rodgers  |
+ Male |
+<audio controls="controls" >
+<source src="wav/SYNTH-FACE/id00017.wav" autoplay/>
+Your browser does not support the audio element.
+</audio>
+ | 
+<audio controls="controls" >
+<source src="wav/SYNTH-SPEECH/id00017.wav" autoplay/>
+Your browser does not support the audio element.
+</audio>
+ |
+| 
+ id00061 |
+  Adam Rodriguez  |
+ Male |
+<audio controls="controls" >
+<source src="wav/SYNTH-FACE/id00061.wav" autoplay/>
+Your browser does not support the audio element.
+</audio>
+ | 
+<audio controls="controls" >
+<source src="wav/SYNTH-SPEECH/id00061.wav" autoplay/>
+Your browser does not support the audio element.
+</audio>
+ |
+| 
+ id00419 |
+  Amy Adams  |
+ Female |
+<audio controls="controls" >
+<source src="wav/SYNTH-FACE/id00419.wav" autoplay/>
+Your browser does not support the audio element.
+</audio>
+ | 
+<audio controls="controls" >
+<source src="wav/SYNTH-SPEECH/id00419.wav" autoplay/>
+Your browser does not support the audio element.
+</audio>
+ |
+| 
+ id01224 |
+  Brie Bella  |
+ Female |
+<audio controls="controls" >
+<source src="wav/SYNTH-FACE/id01224.wav" autoplay/>
+Your browser does not support the audio element.
+</audio>
+ | 
+<audio controls="controls" >
+<source src="wav/SYNTH-SPEECH/id01224.wav" autoplay/>
+Your browser does not support the audio element.
+</audio>
+ |
+| 
+ id02181 |
+  Diane Sawyer  |
+ Female |
+<audio controls="controls" >
+<source src="wav/SYNTH-FACE/id02181.wav" autoplay/>
+Your browser does not support the audio element.
+</audio>
+ | 
+<audio controls="controls" >
+<source src="wav/SYNTH-SPEECH/id02181.wav" autoplay/>
+Your browser does not support the audio element.
+</audio>
+ |
+| 
+ id02542 |
+  Emmanuel Adebayor  |
+ Male |
+<audio controls="controls" >
+<source src="wav/SYNTH-FACE/id02542.wav" autoplay/>
+Your browser does not support the audio element.
+</audio>
+ | 
+<audio controls="controls" >
+<source src="wav/SYNTH-SPEECH/id02542.wav" autoplay/>
+Your browser does not support the audio element.
+</audio>
+ |
+| 
+ id02577 |
+  Eric Close  |
+ Male |
+<audio controls="controls" >
+<source src="wav/SYNTH-FACE/id02577.wav" autoplay/>
+Your browser does not support the audio element.
+</audio>
+ | 
+<audio controls="controls" >
+<source src="wav/SYNTH-SPEECH/id02577.wav" autoplay/>
+Your browser does not support the audio element.
+</audio>
+ |
+| 
+ id03127 |
+  Gisele Bündchen  |
+ Female |
+<audio controls="controls" >
+<source src="wav/SYNTH-FACE/id03127.wav" autoplay/>
+Your browser does not support the audio element.
+</audio>
+ | 
+<audio controls="controls" >
+<source src="wav/SYNTH-SPEECH/id03127.wav" autoplay/>
+Your browser does not support the audio element.
+</audio>
+ |
+| 
+ id03347 |
+  Harry Connick Jr.  |
+ Male |
+<audio controls="controls" >
+<source src="wav/SYNTH-FACE/id03347.wav" autoplay/>
+Your browser does not support the audio element.
+</audio>
+ | 
+<audio controls="controls" >
+<source src="wav/SYNTH-SPEECH/id03347.wav" autoplay/>
+Your browser does not support the audio element.
+</audio>
+ |
+| 
+ id03981 |
+  Jennifer Nettles  |
+ Female |
+<audio controls="controls" >
+<source src="wav/SYNTH-FACE/id03981.wav" autoplay/>
+Your browser does not support the audio element.
+</audio>
+ | 
+<audio controls="controls" >
+<source src="wav/SYNTH-SPEECH/id03981.wav" autoplay/>
+Your browser does not support the audio element.
+</audio>
+ |
+| 
+ id05124 |
+  Leonardo DiCaprio  |
+ Male |
+<audio controls="controls" >
+<source src="wav/SYNTH-FACE/id05124.wav" autoplay/>
+Your browser does not support the audio element.
+</audio>
+ | 
+<audio controls="controls" >
+<source src="wav/SYNTH-SPEECH/id05124.wav" autoplay/>
+Your browser does not support the audio element.
+</audio>
+ |
+| 
+ id05594 |
+  Maria Canals Barrera  |
+ Female |
+<audio controls="controls" >
+<source src="wav/SYNTH-FACE/id05594.wav" autoplay/>
+Your browser does not support the audio element.
+</audio>
+ | 
+<audio controls="controls" >
+<source src="wav/SYNTH-SPEECH/id05594.wav" autoplay/>
+Your browser does not support the audio element.
+</audio>
+ |
+| 
+ id05714 |
+  Marouane Fellaini  |
+ Male |
+<audio controls="controls" >
+<source src="wav/SYNTH-FACE/id05714.wav" autoplay/>
+Your browser does not support the audio element.
+</audio>
+ | 
+<audio controls="controls" >
+<source src="wav/SYNTH-SPEECH/id05714.wav" autoplay/>
+Your browser does not support the audio element.
+</audio>
+ |
+| 
+ id06484 |
+  Nick Offerman  |
+ Male |
+<audio controls="controls" >
+<source src="wav/SYNTH-FACE/id06484.wav" autoplay/>
+Your browser does not support the audio element.
+</audio>
+ | 
+<audio controls="controls" >
+<source src="wav/SYNTH-SPEECH/id06484.wav" autoplay/>
+Your browser does not support the audio element.
+</audio>
+ |
+| 
+ id06811 |
+  Patrick Harris  |
+ Male |
+<audio controls="controls" >
+<source src="wav/SYNTH-FACE/id06811.wav" autoplay/>
+Your browser does not support the audio element.
+</audio>
+ | 
+<audio controls="controls" >
+<source src="wav/SYNTH-SPEECH/id06811.wav" autoplay/>
+Your browser does not support the audio element.
+</audio>
+ |
+| 
+ id06816 |
+  Patrick Monahan  |
+ Male |
+<audio controls="controls" >
+<source src="wav/SYNTH-FACE/id06816.wav" autoplay/>
+Your browser does not support the audio element.
+</audio>
+ | 
+<audio controls="controls" >
+<source src="wav/SYNTH-SPEECH/id06816.wav" autoplay/>
+Your browser does not support the audio element.
+</audio>
+ |
+| 
+ id08149 |
+  Song Hye-kyo  |
+ Female |
+<audio controls="controls" >
+<source src="wav/SYNTH-FACE/id08149.wav" autoplay/>
+Your browser does not support the audio element.
+</audio>
+ | 
+<audio controls="controls" >
+<source src="wav/SYNTH-SPEECH/id08149.wav" autoplay/>
+Your browser does not support the audio element.
+</audio>
+ |
+| 
+ id08552 |
+  Tiger Woods  |
+ Male |
+<audio controls="controls" >
+<source src="wav/SYNTH-FACE/id08552.wav" autoplay/>
+Your browser does not support the audio element.
+</audio>
+ | 
+<audio controls="controls" >
+<source src="wav/SYNTH-SPEECH/id08552.wav" autoplay/>
+Your browser does not support the audio element.
+</audio>
+ |
+| 
+ id08696 |
+  Trey Songz  |
+ Male |
+<audio controls="controls" >
+<source src="wav/SYNTH-FACE/id08696.wav" autoplay/>
+Your browser does not support the audio element.
+</audio>
+ | 
+<audio controls="controls" >
+<source src="wav/SYNTH-SPEECH/id08696.wav" autoplay/>
+Your browser does not support the audio element.
+</audio>
+ |
+| 
+ id09017 |
+  William Scott  |
+ Male |
+<audio controls="controls" >
+<source src="wav/SYNTH-FACE/id09017.wav" autoplay/>
+Your browser does not support the audio element.
+</audio>
+ | 
+<audio controls="controls" >
+<source src="wav/SYNTH-SPEECH/id09017.wav" autoplay/>
+Your browser does not support the audio element.
+</audio>
+ |
+
