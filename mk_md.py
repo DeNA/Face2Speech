@@ -13,7 +13,8 @@ print("")
 
 print("| id in VGGFace2 | speaker name | gender  |  SYNTH-FACE | SYNTHE-SPEECH  |")
 print("|---|---|---|---|---|")
-
+print(" id00017 |  Aaron Rodgers  | Male | hoge | hoge |")
+'''
 for fname in fnames_list:
     vggid, voxcelbif, spkname, gender = fname.rstrip().split()
     vggid = vggid.rstrip()
@@ -39,3 +40,4 @@ for fname in fnames_list:
     print(" |")
 
 print("")
+'''
