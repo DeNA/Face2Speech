@@ -12,7 +12,7 @@ print("# Audio samples")
 print("")
 print("* We can't provide face images on this page because of copyrights.")
 print("* However, the face images were provided to subjects in evaluation.")
-
+print("")
 print("| Id in VGGFace2 | Speaker name | Gender  |  SYNTH-FACE | SYNTHE-SPEECH  |")
 print("|---|---|---|---|---|")
 for fname in fnames_list:
@@ -23,7 +23,7 @@ for fname in fnames_list:
     spkname = re.sub("_", " ", spkname)
     spkname = re.sub("\"", " ", spkname)
 
-    print("| {} | {}  | {} | <audio controls=\"controls\" > <source src=\"wav/SYNTH-FACE/{}.wav\" autoplay/> Your browser does not support the audio element. </audio> | <audio controls=\"controls\" > <source src=\"wav/SYNTH-SPEECH/{}.wav\" autoplay/> Your browser does not support the audio element. </audio> |".format(vggid, spkname, gender, vggid, vggid))
+    print("| {} | {} | {} | <audio controls=\"controls\" > <source src=\"wav/SYNTH-FACE/{}.wav\" autoplay/> Your browser does not support the audio element. </audio> | <audio controls=\"controls\" > <source src=\"wav/SYNTH-SPEECH/{}.wav\" autoplay/> Your browser does not support the audio element. </audio> |".format(vggid, spkname, gender, vggid, vggid))
 
 '''
 for fname in fnames_list:
