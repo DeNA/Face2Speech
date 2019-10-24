@@ -11,9 +11,9 @@ fp.close()
 print("# Audio samples")
 print("")
 
-print("| id in VGGFace2 | speaker name | gender  |  SYNTH-FACE | SYNTHE-SPEECH  |")
+print("| id in VGGFace2 | Speaker name | Gender  |  SYNTH-FACE | SYNTHE-SPEECH  |")
 print("|---|---|---|---|---|")
-print(" id00017 |  Aaron Rodgers  | Male | hoge | hoge |")
+print(" id00017 |  Aaron Rodgers  | Male | <audio controls=\"controls\" > <source src=\"wav/SYNTH-FACE/test.wav\" autoplay/> Your browser does not support the audio element. </audio> | hoge |")
 '''
 for fname in fnames_list:
     vggid, voxcelbif, spkname, gender = fname.rstrip().split()
