@@ -5,7 +5,7 @@
 * You can confirm the face images from links to wikipedia.
 
 | Id in VGGFace2 | Speaker name | Gender | Wikipedia link |  SYNTH-FACE | SYNTHE-SPEECH  |
-|---|---|---|---|---|---|
+|-----|-----|-----|-----|-----|-----|
 | n000017 |  Aaron Rodgers  | Male | [link](https://en.wikipedia.org/wiki/Aaron_Rodgers) |<audio controls="controls" > <source src="wav/SYNTH-FACE/id00017.wav" autoplay/> Your browser does not support the audio element. </audio> | <audio controls="controls" > <source src="wav/SYNTH-SPEECH/id00017.wav" autoplay/> Your browser does not support the audio element. </audio> |
 | n000061 |  Adam Rodriguez  | Male | [link](https://en.wikipedia.org/wiki/Adam_Rodriguez) |<audio controls="controls" > <source src="wav/SYNTH-FACE/id00061.wav" autoplay/> Your browser does not support the audio element. </audio> | <audio controls="controls" > <source src="wav/SYNTH-SPEECH/id00061.wav" autoplay/> Your browser does not support the audio element. </audio> |
 | n000419 |  Amy Adams  | Female | [link](https://en.wikipedia.org/wiki/Amy_Adams) |<audio controls="controls" > <source src="wav/SYNTH-FACE/id00419.wav" autoplay/> Your browser does not support the audio element. </audio> | <audio controls="controls" > <source src="wav/SYNTH-SPEECH/id00419.wav" autoplay/> Your browser does not support the audio element. </audio> |
