@@ -1,7 +1,7 @@
 # Audio samples
 
-* The face images were provided to subjects in evaluation.
-* However, we can't provide face images on this page because of copyrights.
+* Face images were provided to subjects in evaluation.
+* However, we can't provide the face images on this page because of copyrights.
 * You can confirm the face images from links to wikipedia.
 
 | Id in VGGFace2 | Speaker name | Gender | Wikipedia link |  SYNTH-FACE | SYNTHE-SPEECH  |
