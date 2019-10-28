@@ -1,10 +1,10 @@
 # Audio samples
 
 * Face images were provided to subjects in evaluation.
-* However, we can't provide the face images on this page because of copyrights.
+* However, we can't provide the face images and original audio on this page because of copyrights.
 * You can confirm the face images by clicking on the speaker name linking to wikipedia.
 
-| Id in VGGFace2 | Speaker name | Gender |  SYNTH-FACE | SYNTHE-SPEECH   |
+| Id in VGGFace2 | Speaker name | Gender |  SYNTH-FACE | SYNTH-SPEECH   |
 |---|---|---|---|---|
 | n000017 | [ Aaron Rodgers ](https://en.wikipedia.org/wiki/Aaron_Rodgers) | Male | <audio controls="controls" > <source src="wav/SYNTH-FACE/id00017.wav" autoplay/> Your browser does not support the audio element. </audio> | <audio controls="controls" > <source src="wav/SYNTH-SPEECH/id00017.wav" autoplay/> Your browser does not support the audio element. </audio> |
 | n000061 | [ Adam Rodriguez ](https://en.wikipedia.org/wiki/Adam_Rodriguez) | Male | <audio controls="controls" > <source src="wav/SYNTH-FACE/id00061.wav" autoplay/> Your browser does not support the audio element. </audio> | <audio controls="controls" > <source src="wav/SYNTH-SPEECH/id00061.wav" autoplay/> Your browser does not support the audio element. </audio> |
