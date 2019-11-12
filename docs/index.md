@@ -3,7 +3,7 @@
 * However, the flowing images are from wikipedia, i.e. the images provided to subects are different.
 * Because of copyright, we can't provide images in VGGFace.
 > The copyright remains with the original owners of the image (licence in VGGFace2)
-* **Audio samples are left: SYNTH-SPEECH (baseline), right: SYNTH-FACE (Proposed)**
+* **Audio samples are left: SYNTH-SPEECH (Upper limit in proposed), right: SYNTH-FACE (Proposed)**
 
 ### Aaron Rodgers, n000017, male (Name, id in VGGFace2, gender)
 
