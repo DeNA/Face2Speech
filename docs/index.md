@@ -1,11 +1,10 @@
 # Audio samples
-
 * Face images were provided to subjects in evaluation.
-* However, we can't provide the face images and original audio on this page because of copyrights.
-* You can confirm the face images by clicking on the speaker name linking to wikipedia.
-
-| Id in VGGFace2 | Speaker name | Gender |  SYNTH-FACE (Proposed) | SYNTH-SPEECH (baseline)  |
-|---|---|---|---|---|
+* However, the flowing images are from wikipedia, i.e. the images provided to subects are different.
+* Because of copyright, we can't provide images in VGGFace.
+_The copyright remains with the original owners of the image_ ![](http://www.robots.ox.ac.uk/~vgg/data/vgg_face2/)
+| Id in VGGFace2 | Speaker name | Image | Gender |  SYNTH-FACE (Proposed) | SYNTH-SPEECH (baseline)  |
+|---|---|---|---|---|---|
 | n000017 |  Aaron Rodgers  | ![](img/Aaron_Rodgers.jpg) | Male | <audio controls="controls" > <source src="wav/SYNTH-FACE/id00017.wav" autoplay/> Your browser does not support the audio element. </audio> | <audio controls="controls" > <source src="wav/SYNTH-SPEECH/id00017.wav" autoplay/> Your browser does not support the audio element. </audio> |
 | n000061 |  Adam Rodríguez  | ![](img/Adam_Rodríguez.jpg) | Male | <audio controls="controls" > <source src="wav/SYNTH-FACE/id00061.wav" autoplay/> Your browser does not support the audio element. </audio> | <audio controls="controls" > <source src="wav/SYNTH-SPEECH/id00061.wav" autoplay/> Your browser does not support the audio element. </audio> |
 | n000419 |  Amy Adams  | ![](img/Amy_Adams.jpg) | Female | <audio controls="controls" > <source src="wav/SYNTH-FACE/id00419.wav" autoplay/> Your browser does not support the audio element. </audio> | <audio controls="controls" > <source src="wav/SYNTH-SPEECH/id00419.wav" autoplay/> Your browser does not support the audio element. </audio> |
