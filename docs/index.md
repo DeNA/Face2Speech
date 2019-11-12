@@ -56,7 +56,7 @@
 
 ### Gisele Bündchen,n003126,Female
 
-![](img/Gisele_Bündchen.jpg)
+![](img/Gisele_Bundchen.jpg)
 
 |---|---|
 <audio controls="controls" > <source src="wav/SYNTH-FACE/id03127.wav" autoplay/> Your browser does not support the audio element. </audio> | <audio controls="controls" > <source src="wav/SYNTH-SPEECH/id03127.wav" autoplay/> Your browser does not support the audio element. </audio>
