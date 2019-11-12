@@ -1,7 +1,7 @@
 # Image and audio samples
 * Face images were provided to subjects in evaluation.
-* However, the flowing images are from wikipedia, i.e. the images provided to subects are different.
-* Because of copyright, we can't provide images in VGGFace.
+* However, we provide the similar images from wikipedia, i.e. the images provided to subects are not same.
+* Because of copyright, we can not provide images in VGGFace2.
 > The copyright remains with the original owners of the image (licence in VGGFace2)
 * **Audio samples are left: SYNTH-SPEECH (Upper limit in proposed), right: SYNTH-FACE (Proposed)**
 
@@ -56,7 +56,7 @@
 
 ### Gisele Bündchen, n003126, female
 
-![](img/Gisele_Bundchen.jpg)
+![](img/Gisele_Bündchen.jpg)
 
 |---|---|
 <audio controls="controls" > <source src="wav/SYNTH-SPEECH/id03127.wav" autoplay/> Your browser does not support the audio element. </audio> | <audio controls="controls" > <source src="wav/SYNTH-FACE/id03127.wav" autoplay/> Your browser does not support the audio element. </audio>
