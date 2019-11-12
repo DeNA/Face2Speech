@@ -6,140 +6,140 @@
 
 left: SYNTH-SPEECH (baseline), right: SYNTH-FACE (Proposed)
 
-* Aaron Rodgers (id in VGGFace2: n000017)*
+** Aaron Rodgers **
 
 ![](img/Aaron_Rodgers.jpg)
 
-|---|---|
+---|---|
 <audio controls="controls" > <source src="wav/SYNTH-FACE/id00017.wav" autoplay/> Your browser does not support the audio element. </audio> | <audio controls="controls" > <source src="wav/SYNTH-SPEECH/id00017.wav" autoplay/> Your browser does not support the audio element. </audio>
 
-* Adam Rodríguez (id in VGGFace2: n000061)*
+** Adam Rodríguez **
 
 ![](img/Adam_Rodríguez.jpg)
 
 |---|---|
 <audio controls="controls" > <source src="wav/SYNTH-FACE/id00061.wav" autoplay/> Your browser does not support the audio element. </audio> | <audio controls="controls" > <source src="wav/SYNTH-SPEECH/id00061.wav" autoplay/> Your browser does not support the audio element. </audio>
 
-* Amy Adams (id in VGGFace2: n000419)*
+** Amy Adams **
 
 ![](img/Amy_Adams.jpg)
 
 |---|---|
 <audio controls="controls" > <source src="wav/SYNTH-FACE/id00419.wav" autoplay/> Your browser does not support the audio element. </audio> | <audio controls="controls" > <source src="wav/SYNTH-SPEECH/id00419.wav" autoplay/> Your browser does not support the audio element. </audio>
 
-* Brie Bella (id in VGGFace2: n001224)*
+** Brie Bella **
 
 ![](img/Brie_Bella.jpg)
 
 |---|---|
 <audio controls="controls" > <source src="wav/SYNTH-FACE/id01224.wav" autoplay/> Your browser does not support the audio element. </audio> | <audio controls="controls" > <source src="wav/SYNTH-SPEECH/id01224.wav" autoplay/> Your browser does not support the audio element. </audio>
 
-* Diane Sawyer (id in VGGFace2: n002180)*
+** Diane Sawyer **
 
 ![](img/Diane_Sawyer.jpg)
 
 |---|---|
 <audio controls="controls" > <source src="wav/SYNTH-FACE/id02181.wav" autoplay/> Your browser does not support the audio element. </audio> | <audio controls="controls" > <source src="wav/SYNTH-SPEECH/id02181.wav" autoplay/> Your browser does not support the audio element. </audio>
 
-* Emmanuel Adebayor (id in VGGFace2: n002541)*
+** Emmanuel Adebayor **
 
 ![](img/Emmanuel_Adebayor.jpg)
 
 |---|---|
 <audio controls="controls" > <source src="wav/SYNTH-FACE/id02542.wav" autoplay/> Your browser does not support the audio element. </audio> | <audio controls="controls" > <source src="wav/SYNTH-SPEECH/id02542.wav" autoplay/> Your browser does not support the audio element. </audio>
 
-* Eric Close (id in VGGFace2: n002576)*
+** Eric Close **
 
 ![](img/Eric_Close.jpg)
 
 |---|---|
 <audio controls="controls" > <source src="wav/SYNTH-FACE/id02577.wav" autoplay/> Your browser does not support the audio element. </audio> | <audio controls="controls" > <source src="wav/SYNTH-SPEECH/id02577.wav" autoplay/> Your browser does not support the audio element. </audio>
 
-* Gisele Bündchen (id in VGGFace2: n003126)*
+** Gisele Bündchen **
 
-![](img/Gisele_Bündchen.jpg)
+![](img/Gisele_Bundchen.jpg)
 
 |---|---|
 <audio controls="controls" > <source src="wav/SYNTH-FACE/id03127.wav" autoplay/> Your browser does not support the audio element. </audio> | <audio controls="controls" > <source src="wav/SYNTH-SPEECH/id03127.wav" autoplay/> Your browser does not support the audio element. </audio>
 
-* Harry Connick Jr. (id in VGGFace2: n003346)*
+** Harry Connick Jr. **
 
 ![](img/Harry_Connick_Jr..jpg)
 
 |---|---|
 <audio controls="controls" > <source src="wav/SYNTH-FACE/id03347.wav" autoplay/> Your browser does not support the audio element. </audio> | <audio controls="controls" > <source src="wav/SYNTH-SPEECH/id03347.wav" autoplay/> Your browser does not support the audio element. </audio>
 
-* Jennifer Nettles (id in VGGFace2: n003980)*
+** Jennifer Nettles **
 
 ![](img/Jennifer_Nettles.jpg)
 
 |---|---|
 <audio controls="controls" > <source src="wav/SYNTH-FACE/id03981.wav" autoplay/> Your browser does not support the audio element. </audio> | <audio controls="controls" > <source src="wav/SYNTH-SPEECH/id03981.wav" autoplay/> Your browser does not support the audio element. </audio>
 
-* Leonardo DiCaprio (id in VGGFace2: n005123)*
+** Leonardo DiCaprio **
 
 ![](img/Leonardo_DiCaprio.jpg)
 
 |---|---|
 <audio controls="controls" > <source src="wav/SYNTH-FACE/id05124.wav" autoplay/> Your browser does not support the audio element. </audio> | <audio controls="controls" > <source src="wav/SYNTH-SPEECH/id05124.wav" autoplay/> Your browser does not support the audio element. </audio>
 
-* Maria Canals Barrera (id in VGGFace2: n005591)*
+** Maria Canals Barrera **
 
 ![](img/Maria_Canals_Barrera.jpg)
 
 |---|---|
 <audio controls="controls" > <source src="wav/SYNTH-FACE/id05594.wav" autoplay/> Your browser does not support the audio element. </audio> | <audio controls="controls" > <source src="wav/SYNTH-SPEECH/id05594.wav" autoplay/> Your browser does not support the audio element. </audio>
 
-* Marouane Fellaini (id in VGGFace2: n005713)*
+** Marouane Fellaini **
 
 ![](img/Marouane_Fellaini.jpg)
 
 |---|---|
 <audio controls="controls" > <source src="wav/SYNTH-FACE/id05714.wav" autoplay/> Your browser does not support the audio element. </audio> | <audio controls="controls" > <source src="wav/SYNTH-SPEECH/id05714.wav" autoplay/> Your browser does not support the audio element. </audio>
 
-* Nick Offerman (id in VGGFace2: n006483)*
+** Nick Offerman **
 
 ![](img/Nick_Offerman.jpg)
 
 |---|---|
 <audio controls="controls" > <source src="wav/SYNTH-FACE/id06484.wav" autoplay/> Your browser does not support the audio element. </audio> | <audio controls="controls" > <source src="wav/SYNTH-SPEECH/id06484.wav" autoplay/> Your browser does not support the audio element. </audio>
 
-* Neil Patrick Harris (id in VGGFace2: n006810)*
+** Neil Patrick Harris **
 
 ![](img/Neil_Patrick_Harris.jpg)
 
 |---|---|
 <audio controls="controls" > <source src="wav/SYNTH-FACE/id06811.wav" autoplay/> Your browser does not support the audio element. </audio> | <audio controls="controls" > <source src="wav/SYNTH-SPEECH/id06811.wav" autoplay/> Your browser does not support the audio element. </audio>
 
-* Patrick Monahan (id in VGGFace2: n006815)*
+** Patrick Monahan **
 
 ![](img/Patrick_Monahan.jpg)
 
 |---|---|
 <audio controls="controls" > <source src="wav/SYNTH-FACE/id06816.wav" autoplay/> Your browser does not support the audio element. </audio> | <audio controls="controls" > <source src="wav/SYNTH-SPEECH/id06816.wav" autoplay/> Your browser does not support the audio element. </audio>
 
-* Song Hye-kyo (id in VGGFace2: n008148)*
+** Song Hye-kyo **
 
 ![](img/Song_Hye-kyo.jpg)
 
 |---|---|
 <audio controls="controls" > <source src="wav/SYNTH-FACE/id08149.wav" autoplay/> Your browser does not support the audio element. </audio> | <audio controls="controls" > <source src="wav/SYNTH-SPEECH/id08149.wav" autoplay/> Your browser does not support the audio element. </audio>
 
-* Tiger Woods (id in VGGFace2: n008551)*
+** Tiger Woods **
 
 ![](img/Tiger_Woods.jpg)
 
 |---|---|
 <audio controls="controls" > <source src="wav/SYNTH-FACE/id08552.wav" autoplay/> Your browser does not support the audio element. </audio> | <audio controls="controls" > <source src="wav/SYNTH-SPEECH/id08552.wav" autoplay/> Your browser does not support the audio element. </audio>
 
-* Trey Songz (id in VGGFace2: n008695)*
+** Trey Songz **
 
 ![](img/Trey_Songz.jpg)
 
 |---|---|
 <audio controls="controls" > <source src="wav/SYNTH-FACE/id08696.wav" autoplay/> Your browser does not support the audio element. </audio> | <audio controls="controls" > <source src="wav/SYNTH-SPEECH/id08696.wav" autoplay/> Your browser does not support the audio element. </audio>
 
-* William Scott (id in VGGFace2: n009017)*
+** William Scott **
 
 ![](img/William_Scott.jpg)
 
