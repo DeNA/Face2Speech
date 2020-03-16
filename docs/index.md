@@ -1,5 +1,5 @@
 # Face2Speech demo
-GitHub: https://github.com/DeNA/Face2Speech
+GitHub: [https://github.com/DeNA/Face2Speech](https://github.com/DeNA/Face2Speech)
 
 ## Image and audio samples
 * Face images were provided to subjects in evaluation.
