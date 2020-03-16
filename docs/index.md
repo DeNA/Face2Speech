@@ -1,4 +1,7 @@
-# Image and audio samples
+# Face2Speech demo
+GitHub: https://github.com/DeNA/Face2Speech
+
+## Image and audio samples
 * Face images were provided to subjects in evaluation.
 * However, we provide the similar images from wikipedia, i.e. the images provided to subects are not same.
 * Because of copyright, we can not provide images in VGGFace2.
